@@ -6,7 +6,7 @@
  }
 /* 起始颜色：#6A1B9A 结束颜色：#283593 粉红色渐变 起始颜色：#FF4081 结束颜色：#F50057 橙黄色渐变 起始颜色：#FFA000 结束颜色：#FFC107 绿色渐变 起始颜色：#4CAF50 结束颜色：#8BC34A 蓝绿色渐变 起始颜色：#009688 结束颜色：#4DB6AC 紫色渐变 起始颜色：#9C27B0 结束颜色：#E040FB 红色渐变 起始颜色：#D32F2F 结束颜色：#F44336 灰色渐变 起始颜色：#607D8B 结束颜色：#9E9E9E */
  #myDiv {
-   background: linear-gradient(to right,#FFA000 ,#FFC107);
+   background: linear-gradient(to right,pink ,lightblue);
    width: 100px;
    height: 100px;
    border-radius: 50%;
